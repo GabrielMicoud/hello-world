@@ -1,4 +1,4 @@
-# hello-world
+# Hello world !
 
 I'm Gaby, i'm a student in a cool school full of fools.
 I like trains.
